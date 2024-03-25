@@ -1,8 +1,8 @@
 # Hi there
-I develop GUI app mainly.
+I maintain GUI app mainly.
 
 ## Languages
-1. Python
+- Python
 
-## Contacts
+## Contacts me
 sprl0901abe@gmail.com
